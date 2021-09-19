@@ -13,5 +13,4 @@ which can calculate correlation across different channels of all the Style
 feature maps.
 6. We can either use a content image or white noise (target image) to arrive
 at the generated image. We update the individual pixelvalues of the target
-image by using the gradients calculated using the total loss through
-Backpropagation (Gradient descent).
+image by using Gradient descent.
